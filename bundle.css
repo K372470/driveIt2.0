@@ -32,8 +32,8 @@
     fill: #ffcd1e80
 }
 
-.map_metro_map__check circle {
-    transition: .2s;
+.map_metro_map__check {
+    transition: .9s;
     opacity: 0.7;
 }
 
