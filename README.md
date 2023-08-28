@@ -7,6 +7,7 @@ This repository is a [frontend demo](https://k372470.github.io/driveIt2.0) build
 </br>
 Our site gets actual data from server for all stations-overloading and says if its good now or not.
 ![image-all](images/all-stations.jpg)
+</br>
 Also, it can get detailed information about selected station (right now, only red-line stations)
 ![image-details](images/station-details.jpg)
 
